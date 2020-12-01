@@ -1,4 +1,4 @@
-//question link - https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
+//2. question link - https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
 #include <bits/stdc++.h>
 using namespace std;
 class Solution{
