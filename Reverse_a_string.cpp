@@ -1,4 +1,4 @@
-//question link - https://practice.geeksforgeeks.org/problems/reverse-a-string/1
+//1. question link - https://practice.geeksforgeeks.org/problems/reverse-a-string/1
 
 #include<bits/stdc++.h>
 using namespace std;
